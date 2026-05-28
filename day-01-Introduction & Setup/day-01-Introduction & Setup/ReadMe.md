@@ -1,7 +1,7 @@
 # Day 01- Introduction & Setup
 
 [← Previous](../README.md) | [Main Roadmap](../README.md) | [Next 
-→](../README.md)
+→](day-01-Introduction & Setup/day-02-Select & Filtering)
 
 # Goal
 understand what SQL is 
