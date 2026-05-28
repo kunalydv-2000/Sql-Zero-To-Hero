@@ -161,4 +161,4 @@ LIMIT 3
 
 returns top 3 highest revenues.
 
-# [Mini Project]()
+# [Mini Project](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/7df6b1cd28fe87f93fb6ef0f77a863b76cdf7ea0/SQL%20Zero%20To%20Hero/day-03/mini-project/mini-project.sql)
