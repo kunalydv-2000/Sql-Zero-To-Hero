@@ -97,4 +97,4 @@ INSERT INTO students VALUES
 SELECT * FROM students;
 ```
 
-### [Mini project](mini-project/mini-project.png)
+### [Mini project](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/e19ace845cd6b2fd481082307826c3d98579aff5/SQL%20Zero%20To%20Hero/day-01/mini%20project/mini-project.sql)
