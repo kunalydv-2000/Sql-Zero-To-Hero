@@ -138,3 +138,4 @@ Meaning:
 1. SQL finds the table 
 2. filters rows 
 3. returns selected columns
+4. new
