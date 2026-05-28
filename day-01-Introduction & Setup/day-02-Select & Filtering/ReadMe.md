@@ -151,4 +151,4 @@ Meaning:
 
 [Task 5](mini-project/task 5.png)
 
-[Task 6](mini-project/task 6.png)
+[Task 6](day-02-Select & Filtering/mini-project/task 6.png)
