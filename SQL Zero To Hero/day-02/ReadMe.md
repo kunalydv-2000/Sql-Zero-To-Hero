@@ -140,8 +140,3 @@ Meaning:
 3. returns selected columns
 
 # [Mini project](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/27a739bd21034e3d875b2cf8e7b6f27a92834952/SQL%20Zero%20To%20Hero/day-02/mini-project/mini-project.sql)
-
-
-- [Task 5](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%205.png)
-
-- [Task 6](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%206.png)
