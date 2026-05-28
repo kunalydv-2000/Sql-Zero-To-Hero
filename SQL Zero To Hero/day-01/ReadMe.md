@@ -1,7 +1,7 @@
 # Day 01- Introduction & Setup
 
 [← Previous](../README.md) | [Main Roadmap](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/0f84678bd1f0af493bb27083ba2b35e928ff0890/README.md) | [Next 
-→](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/a4c71d7e0a3ac04851d2f83294c8dfad1ad3fa35/day-02-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/ReadMe.md)
+→](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/a033fdef214c24a8a01ab184791a86779be8d99a/SQL%20Zero%20To%20Hero/day-02/ReadMe.md)
 
 # Goal
 understand what SQL is 
