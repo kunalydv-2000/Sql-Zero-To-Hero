@@ -57,11 +57,6 @@ By the end of this roadmap, you will be able to:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalydv-2000&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=kunalydv-2000&theme=tokyonight&hide_border=true"/>
 </p>
 
