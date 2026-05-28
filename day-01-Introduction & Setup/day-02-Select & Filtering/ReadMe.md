@@ -1,5 +1,5 @@
 # Day 02- SELECT Statements & Filtering
-[← Previous](../README.md) | [Main Roadmap](../README.md) | [Next 
+[← Previous](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/8d872747706b2ad058a6c745028cc06320d39c12/day-01-Introduction%20%26%20Setup/day-01-Introduction%20%26%20Setup/ReadMe.md) | [Main Roadmap](../README.md) | [Next 
 →](../README.md)
 
 # Goal
