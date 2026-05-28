@@ -140,9 +140,15 @@ Meaning:
 3. returns selected columns
 
 ### Mini project
+
 [Task 1](mini-project/task 1.png)
+
 [Task 2](mini-project/task 2.png)
+
 [Task 3](mini-project/task 3.png)
+
 [Task 4](mini-project/task 4.png)
+
 [Task 5](mini-project/task 5.png)
+
 [Task 6](mini-project/task 6.png)
