@@ -1,7 +1,7 @@
 # Day 01- Introduction & Setup
 
 [← Previous](../README.md) | [Main Roadmap](../README.md) | [Next 
-→](day-01-Introduction & Setup/day-02-Select & Filtering)
+→](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/edit/main/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/ReadMe.md)
 
 # Goal
 understand what SQL is 
