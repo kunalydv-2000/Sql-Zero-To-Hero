@@ -67,3 +67,32 @@ A database can contain multiple tables.
 ```Sql
 Database → Tables → Data → Queries → Insights
 ```
+
+```sql
+-- CREATE DATABASE
+
+CREATE DATABASE school;
+
+--use Database
+
+USE school 
+
+--CREATE TABLE
+
+CREATE TABLE students(
+	   id INT,
+	   name VARCHAR(50),
+	   age INT
+);
+
+--Insert Data into Table
+
+INSERT INTO students VALUES
+(1,'Aman',20),
+(2,'Bharat',23),
+(3,'Chetan',21);
+
+--View Data
+
+SELECT * FROM students;
+```
