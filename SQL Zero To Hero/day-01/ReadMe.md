@@ -1,7 +1,7 @@
 # Day 01- Introduction & Setup
 
 [← Previous](../README.md) | [Main Roadmap](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/0f84678bd1f0af493bb27083ba2b35e928ff0890/README.md) | [Next 
-→](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/27a739bd21034e3d875b2cf8e7b6f27a92834952/SQL%20Zero%20To%20Hero/day-02/mini-project/mini-project.sql)
+→](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/586d386f8dcc9772b79873fe5833e7e977975951/SQL%20Zero%20To%20Hero/day-02/ReadMe.md)
 
 # Goal
 understand what SQL is 
