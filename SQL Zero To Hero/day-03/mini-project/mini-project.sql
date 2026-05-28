@@ -1,4 +1,9 @@
 
+-- Mini Project- Top Sales Analyzer
+
+-- Objective
+-- Build a small analysis system
+
  CREATE DATABASE sales_db; 
 
 USE sales_db; 
@@ -23,36 +28,31 @@ INSERT INTO sales VALUES
 (7, 'Keyboard', 'Accessories', 'Delhi', 8000, 12), 
 (8, 'Mouse', 'Accessories', 'Pune', 5000, 20);
 
--- Mini Project- Top Sales Analyzer
-
--- Objective
--- Build a small analysis system
-
 --Tasks 
---Task 1 — Show All Sales 
+--Task 1 â€” Show All Sales 
 SELECT * FROM sales; 
---Task 2 — Sort Revenue Highest to Lowest 
+--Task 2 â€” Sort Revenue Highest to Lowest 
 SELECT * 
 FROM sales 
 ORDER BY revenue DESC; 
---Task 3 — Show Top 3 Revenue Products 
+--Task 3 â€” Show Top 3 Revenue Products 
 SELECT TOP 3 * 
 FROM sales 
 ORDER BY revenue DESC 
---Task 4 — Show Lowest Revenue Product 
+--Task 4 â€” Show Lowest Revenue Product 
 SELECT TOP 1 * 
 FROM sales 
 ORDER BY revenue 
---Task 5 — Sort Products Alphabetically 
+--Task 5 â€” Sort Products Alphabetically 
 SELECT * 
 FROM sales 
 ORDER BY product_name; 
---Task 6 — Electronics Products Ranked by Revenue 
+--Task 6 â€” Electronics Products Ranked by Revenue 
 SELECT * 
 FROM sales 
 WHERE category = 'Electronics' 
 ORDER BY revenue DESC; 
---Task 7 — Delhi Sales Ranked by Quantity 
+--Task 7 â€” Delhi Sales Ranked by Quantity 
 SELECT * 
 FROM sales 
 WHERE city = 'Delhi' 
