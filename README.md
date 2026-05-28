@@ -53,3 +53,15 @@ By the end of this roadmap, you will be able to:
 - employee database analytics 
 - ecommerce reporting 
 - business KPI dashboards
+
+## 📈 GitHub Activity Graph
+
+[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalydv-2000&theme=gruvbox)](https://github.com/kunalydv-2000)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kunalydv-2000&theme=gruvbox)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=gruvbox)
