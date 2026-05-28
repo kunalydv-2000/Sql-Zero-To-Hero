@@ -97,4 +97,4 @@ INSERT INTO students VALUES
 SELECT * FROM students;
 ```
 
-### [Mini Project](mini-project.png)
+### [Mini project](mini-project/mini-project.png)
