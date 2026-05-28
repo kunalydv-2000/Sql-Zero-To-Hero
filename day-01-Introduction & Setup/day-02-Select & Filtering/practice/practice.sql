@@ -1,7 +1,3 @@
-USE college_db
-
-SELECT * FROM employee
-
 -- Practice Task
 
 -- Task 1- Find employees with salary below 50000.
@@ -33,5 +29,3 @@ WHERE dept = 'sales'
 SELECT * 
 FROM employee
 WHERE salary between 60000 and 75000
-
-
