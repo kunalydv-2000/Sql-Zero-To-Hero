@@ -1,4 +1,4 @@
-# Day 01- SELECT Statements & Filtering
+# Day 02- SELECT Statements & Filtering
 [← Previous](../README.md) | [Main Roadmap](../README.md) | [Next 
 →](../README.md)
 
