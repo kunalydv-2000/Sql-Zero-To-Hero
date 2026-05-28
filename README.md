@@ -54,14 +54,17 @@ By the end of this roadmap, you will be able to:
 - ecommerce reporting 
 - business KPI dashboards
 
-## 📈 GitHub Activity Graph
+# 📊 GitHub Analytics
 
-[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalydv-2000&theme=gruvbox)](https://github.com/kunalydv-2000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalydv-2000&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
-## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunalydv-2000&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kunalydv-2000&theme=gruvbox)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalydv-2000&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalydv-2000&theme=tokyo-night"/>
+</p>
