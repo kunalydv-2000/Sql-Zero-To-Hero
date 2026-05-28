@@ -26,11 +26,12 @@ By the end of this roadmap, you will be able to:
 - use window functions 
 - optimize queries 
 - build real-world SQL projects
----
+
 # Tools
 - SSMS (SQL Server Management Studio)
----
+
 # Skills Covered
+
 ### Beginner Level
 - SELECT statements 
 - filtering data 
@@ -39,6 +40,7 @@ By the end of this roadmap, you will be able to:
 - GROUP BY 
 - HAVING 
 - basic joins 
+
 ### Intermediate Level 
 - subqueries 
 - CTEs 
@@ -47,6 +49,7 @@ By the end of this roadmap, you will be able to:
 - indexes 
 - stored procedures 
 - query optimization 
+
 ### Portfolio Projects 
 - sales analysis 
 - customer analysis 
