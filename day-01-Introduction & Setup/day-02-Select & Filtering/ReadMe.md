@@ -139,16 +139,17 @@ Meaning:
 2. filters rows 
 3. returns selected columns
 
-### Mini project
+## Mini project
+---
 
-[Task 1](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/d6a0dcc32cfead688f56ae928fca8c850826594c/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%201.png)
+- [Task 1](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/d6a0dcc32cfead688f56ae928fca8c850826594c/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%201.png)
 
-[Task 2](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%202.png)
+- [Task 2](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%202.png)
 
-[Task 3](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%203.png)
+- [Task 3](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%203.png)
 
-[Task 4](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%204.png)
+- [Task 4](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%204.png)
 
-[Task 5](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%205.png)
+- [Task 5](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%205.png)
 
-[Task 6](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%206.png)
+- [Task 6](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/60a0363827e3d2bc34c9f8d8f41bbedbc9050a44/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%206.png)
