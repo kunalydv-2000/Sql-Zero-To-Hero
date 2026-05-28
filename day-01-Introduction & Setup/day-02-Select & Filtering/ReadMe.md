@@ -140,7 +140,6 @@ Meaning:
 3. returns selected columns
 
 ## Mini project
----
 
 - [Task 1](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/d6a0dcc32cfead688f56ae928fca8c850826594c/day-01-Introduction%20%26%20Setup/day-02-Select%20%26%20Filtering/mini-project/Task%201.png)
 
