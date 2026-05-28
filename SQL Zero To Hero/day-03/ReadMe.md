@@ -1,5 +1,5 @@
 # Day 03- ORDER BY and LIMIT/TOP
-[← Previous]() | [Main Roadmap]() | [Next →]()
+[← Previous](https://github.com/kunalydv-2000/Sql-Zero-To-Hero/blob/29139b151caec333a58bc0ac47bd029ce5cdc488/SQL%20Zero%20To%20Hero/day-02/ReadMe.md) | [Main Roadmap]() | [Next →]()
 # Goal
 - sort data using `ORDER BY` 
 - understand ascending and descending order 
@@ -160,3 +160,5 @@ LIMIT 3
 ``` 
 
 returns top 3 highest revenues.
+
+# [Mini Project]()
