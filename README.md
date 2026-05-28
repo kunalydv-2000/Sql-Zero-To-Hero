@@ -1,12 +1,3 @@
-div align="center">
-  <!--Banner-->
-  <img src="https://github.com/kunalydv-2000/30-Days-python-challenge/blob/main/zoro/sql.gif" 
-       height="180" 
-       width="400" 
-       alt="kunalydv-2000 Python">
-</div>
-
-
 # Sql Zero To Hero - 30 Days Roadmap
 
 ## Overview
