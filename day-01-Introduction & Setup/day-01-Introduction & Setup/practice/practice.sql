@@ -26,6 +26,7 @@ INSERT INTO employee (emp_id, name, city, dept, salary) VALUES
 (4, 'Emily Davis', 'Houston', 'Marketing', 70000.00),
 (5, 'Chris Lee', 'Phoenix', 'Sales', 65000.00);
 
+--employee table
 SELECT * FROM employee
 
 CREATE TABLE Products (
@@ -43,8 +44,5 @@ INSERT INTO Products (ProductID, ProductName, Category, Price, StockQuantity) VA
 (4, 'Desk Lamp', 'Home & Office', 45.00, 75),
 (5, 'Notebook Set', 'Stationery', 12.50, 200);
 
+--products table
 SELECT * FROM Products
-
-
-
-SELECT * FROM Products   
